@@ -39,4 +39,15 @@ public class JwtUtils {
         }
         return claims;
     }
+
+    public static Integer getIdByToken(String token) {
+        Claims claims = parseToken(token);
+        if(claims!=null) {
+            Integer userId = (Integer) claims.get("id");
+            if(userId>0) {
+                return userId;
+            }
+        }
+        return null;
+    }
 }

@@ -1,12 +1,18 @@
 package top.curiez.mindlog.controller;
 
+import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import top.curiez.mindlog.constant.Constants;
 import top.curiez.mindlog.model.Result;
 import top.curiez.mindlog.model.UserInfo;
 import top.curiez.mindlog.service.UserService;
+import top.curiez.mindlog.utils.JwtUtils;
+
+import java.util.HashMap;
+import java.util.Map;
 
 @RequestMapping("/user")
 @RestController
@@ -25,6 +31,26 @@ public class UserController {
         if(!password.equals(userInfo.getPassword())) {
             return Result.fail("密码错误");
         }
+        Map<String,Object> claim = new HashMap<>();
+        claim.put("id",userInfo.getId());
+        claim.put("userName",userInfo.getUserName());
+        String jwtToken = JwtUtils.getJwtToken(claim);
+        return Result.success(jwtToken);
+    }
 
+    @RequestMapping("/getUserInfo")
+    public UserInfo getLoginUserInfo(HttpServletRequest request) {
+        String token = request.getHeader(Constants.REQUEST_HEADER_TOKEN);
+        Integer userId = JwtUtils.getIdByToken(token);
+        if(userId!=null) {
+            return null;
+        }
+        UserInfo userInfo = userService.selecById(userId);
+        return userInfo;
+    }
+
+    @RequestMapping("/getAuthorInfo")
+    public UserInfo getAuthorInfo() {
+        return null;
     }
 }
