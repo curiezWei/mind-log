@@ -18,4 +18,12 @@ public class BlogService {
     public BlogInfo getBlogDetail(Integer blogId) {
         return blogInfoMapper.selectById(blogId);
     }
+
+    public Boolean insertBlog(BlogInfo blogInfo) {
+        Integer i = blogInfoMapper.insertBlog(blogInfo);
+        if(i==1) {
+            return true;
+        }
+        return false;
+    }
 }

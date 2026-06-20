@@ -42,15 +42,22 @@ public class UserController {
     public UserInfo getLoginUserInfo(HttpServletRequest request) {
         String token = request.getHeader(Constants.REQUEST_HEADER_TOKEN);
         Integer userId = JwtUtils.getIdByToken(token);
-        if(userId!=null) {
+        if(userId==null) {
             return null;
         }
-        UserInfo userInfo = userService.selecById(userId);
+        UserInfo userInfo = userService.selectById(userId);
         return userInfo;
     }
 
     @RequestMapping("/getAuthorInfo")
-    public UserInfo getAuthorInfo() {
-        return null;
+    public UserInfo getAuthorInfo(Integer blogId) {
+        if(blogId<=0) {
+            return null;
+        }
+        UserInfo userInfo = userService.getAuthorInfo(blogId);
+        if(userInfo==null) {
+            return null;
+        }
+        return userInfo;
     }
 }
