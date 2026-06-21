@@ -26,4 +26,8 @@ public class BlogService {
         }
         return false;
     }
+
+    public Integer update(BlogInfo blogInfo) {
+        return blogInfoMapper.updateBlog(blogInfo);
+    }
 }

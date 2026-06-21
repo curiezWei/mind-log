@@ -1,0 +1,1210 @@
+2026-06-21T00:14:24.352+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m6s941ms).
+2026-06-21T00:31:25.226+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m30s875ms).
+2026-06-21T00:48:35.135+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m39s902ms).
+2026-06-21T01:04:31.965+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m26s820ms).
+2026-06-21T01:22:12.770+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m40s805ms).
+2026-06-21T01:38:48.954+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m6s180ms).
+2026-06-21T01:56:51.695+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m28s712ms).
+2026-06-21T02:13:46.423+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m24s718ms).
+2026-06-21T02:18:47.468+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m31s20ms).
+2026-06-21T02:35:26.416+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m8s937ms).
+2026-06-21T02:50:58.267+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m31s851ms).
+2026-06-21T03:08:11.525+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m43s233ms).
+2026-06-21T03:24:34.291+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m22s765ms).
+2026-06-21T03:40:54.069+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m49s759ms).
+2026-06-21T03:58:00.964+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m36s912ms).
+2026-06-21T04:14:15.893+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m44s921ms).
+2026-06-21T04:31:29.668+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m13s776ms).
+2026-06-21T04:49:04.121+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m4s446ms).
+2026-06-21T05:06:22.211+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m18s91ms).
+2026-06-21T05:23:35.986+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m43s762ms).
+2026-06-21T05:41:15.589+08:00  WARN 59212 --- [RMI TCP Connection(11)-127.0.0.1] javax.management.remote.misc             : The server has decided to close this client connection.
+2026-06-21T05:41:23.235+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m17s244ms).
+2026-06-21T05:45:53.062+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m59s828ms).
+2026-06-21T06:02:21.973+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m28s910ms).
+2026-06-21T06:18:35.840+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m43s909ms).
+2026-06-21T06:34:34.500+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m28s657ms).
+2026-06-21T06:50:17.402+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m42s903ms).
+2026-06-21T07:07:25.856+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m38s471ms).
+2026-06-21T07:23:38.893+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m42s957ms).
+2026-06-21T07:40:30.788+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m21s885ms).
+2026-06-21T07:46:32.687+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m1s900ms).
+2026-06-21T08:03:40.593+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m37s901ms).
+2026-06-21T08:20:00.675+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m20s83ms).
+2026-06-21T08:36:32.413+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m31s729ms).
+2026-06-21T08:47:39.237+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m6s825ms).
+2026-06-21T09:05:00.153+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m50s909ms).
+2026-06-21T09:21:45.036+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m44s884ms).
+2026-06-21T09:38:41.236+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m26s200ms).
+2026-06-21T09:48:45.288+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m34s41ms).
+2026-06-21T10:04:17.076+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m31s789ms).
+2026-06-21T10:20:33.889+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m46s869ms).
+2026-06-21T10:31:44.195+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m40s302ms).
+2026-06-21T10:48:52.482+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m38s290ms).
+2026-06-21T11:04:48.442+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s960ms).
+2026-06-21T11:21:29.443+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m10s970ms).
+2026-06-21T11:37:56.756+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m57s309ms).
+2026-06-21T11:49:59.578+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m32s815ms).
+2026-06-21T12:06:41.159+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m11s567ms).
+2026-06-21T12:23:48.900+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m7s741ms).
+2026-06-21T12:40:47.068+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m28s144ms).
+2026-06-21T12:50:48.100+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m31s19ms).
+2026-06-21T13:09:00.416+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m42s311ms).
+2026-06-21T13:51:49.675+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m48s898ms).
+2026-06-21T14:08:20.547+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m30s874ms).
+2026-06-21T14:26:40.431+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m49s872ms).
+2026-06-21T14:42:47.891+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m37s450ms).
+2026-06-21T14:52:54.756+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m36s856ms).
+2026-06-21T15:09:26.707+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m31s951ms).
+2026-06-21T15:27:16.478+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m19s761ms).
+2026-06-21T15:43:42.285+08:00  WARN 59212 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s797ms).
+2026-06-21T15:45:32.180+08:00  INFO 59212 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:32.193+08:00 ERROR 59212 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:33.102+08:00  INFO 59212 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:33.104+08:00 ERROR 59212 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:34.084+08:00  INFO 59212 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:34.085+08:00 ERROR 59212 --- [http-nio-8080-exec-6] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:34.719+08:00  INFO 59212 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:34.720+08:00 ERROR 59212 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:36.972+08:00  INFO 59212 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:36.973+08:00  INFO 59212 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:36.973+08:00  INFO 59212 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:36.974+08:00 ERROR 59212 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:41.821+08:00  INFO 59212 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:41.821+08:00  INFO 59212 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:41.823+08:00  INFO 59212 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:41.825+08:00 ERROR 59212 --- [http-nio-8080-exec-6] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:42.902+08:00  INFO 59212 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:42.903+08:00 ERROR 59212 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:44.319+08:00  INFO 59212 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:44.319+08:00  INFO 59212 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:44.339+08:00  INFO 59212 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:44.340+08:00 ERROR 59212 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:45.332+08:00  INFO 59212 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:45.334+08:00 ERROR 59212 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:51.786+08:00  INFO 59212 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:51.786+08:00  INFO 59212 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:51.795+08:00  INFO 59212 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:51.797+08:00 ERROR 59212 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:52.525+08:00  INFO 59212 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:52.529+08:00 ERROR 59212 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:53.352+08:00  INFO 59212 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:53.352+08:00  INFO 59212 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:53.359+08:00  INFO 59212 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:53.362+08:00 ERROR 59212 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:54.519+08:00  INFO 59212 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:54.520+08:00 ERROR 59212 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:55.702+08:00  INFO 59212 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:55.702+08:00  INFO 59212 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIwNDA4NDV9.QvK7CFdwBVQAoUTbzNPOl5hbtDwxBg43qmwoFoyReOo
+2026-06-21T15:45:55.706+08:00  INFO 59212 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:55.707+08:00 ERROR 59212 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:45:56.652+08:00  INFO 59212 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:45:56.653+08:00 ERROR 59212 --- [http-nio-8080-exec-6] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T15:46:17.689+08:00  INFO 59212 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T15:46:17.694+08:00 ERROR 59212 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:08:22.311+08:00  INFO 59212 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T16:08:22.328+08:00  INFO 59212 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T16:08:22.334+08:00  INFO 59212 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T16:08:22.336+08:00  INFO 59212 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T16:08:25.318+08:00  INFO 61958 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 61958 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T16:08:25.323+08:00  INFO 61958 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T16:08:25.754+08:00  INFO 61958 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T16:08:25.761+08:00  INFO 61958 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T16:08:25.761+08:00  INFO 61958 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T16:08:25.778+08:00  INFO 61958 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 438 ms
+2026-06-21T16:08:26.068+08:00  INFO 61958 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T16:08:26.070+08:00  INFO 61958 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 0.997 seconds (process running for 1.292)
+2026-06-21T16:08:32.863+08:00  INFO 61958 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T16:08:32.864+08:00  INFO 61958 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T16:08:32.869+08:00  INFO 61958 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2026-06-21T16:08:33.008+08:00  INFO 61958 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:08:33.115+08:00 ERROR 61958 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:08:39.595+08:00  INFO 61958 --- [http-nio-8080-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T16:08:39.725+08:00  INFO 61958 --- [http-nio-8080-exec-4] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4433dbee
+2026-06-21T16:08:39.726+08:00  INFO 61958 --- [http-nio-8080-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T16:08:39.889+08:00  INFO 61958 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:08:39.888+08:00  INFO 61958 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:08:39.896+08:00  INFO 61958 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:08:39.898+08:00 ERROR 61958 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:08:39.911+08:00  INFO 61958 --- [http-nio-8080-exec-6] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T16:09:15.771+08:00  INFO 61958 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:09:15.774+08:00 ERROR 61958 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:09:58.012+08:00  INFO 61958 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:09:58.031+08:00 ERROR 61958 --- [http-nio-8080-exec-10] t.curiez.mindlog.config.ExceptionHandle  : 异常发生,e:
+
+org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/x-www-form-urlencoded;charset=UTF-8' is not supported
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver.readWithMessageConverters(AbstractMessageConverterMethodArgumentResolver.java:235) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.readWithMessageConverters(RequestResponseBodyMethodProcessor.java:181) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:156) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:224) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:174) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2026-06-21T16:10:03.107+08:00  INFO 61958 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:10:03.112+08:00 ERROR 61958 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:10:06.729+08:00  INFO 61958 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:10:06.738+08:00 ERROR 61958 --- [http-nio-8080-exec-2] t.curiez.mindlog.config.ExceptionHandle  : 异常发生,e:
+
+org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/x-www-form-urlencoded;charset=UTF-8' is not supported
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver.readWithMessageConverters(AbstractMessageConverterMethodArgumentResolver.java:235) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.readWithMessageConverters(RequestResponseBodyMethodProcessor.java:181) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:156) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:224) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:174) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2026-06-21T16:10:10.700+08:00  INFO 61958 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:10:10.702+08:00  INFO 61958 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:10:10.705+08:00  INFO 61958 --- [http-nio-8080-exec-7] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T16:10:10.706+08:00  INFO 61958 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:10:10.708+08:00 ERROR 61958 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:10:12.987+08:00  INFO 61958 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:10:12.987+08:00  INFO 61958 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:10:12.990+08:00  INFO 61958 --- [http-nio-8080-exec-8] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T16:10:12.991+08:00  INFO 61958 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:10:12.993+08:00 ERROR 61958 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:15:12.314+08:00  INFO 61958 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T16:15:12.325+08:00  INFO 61958 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T16:15:12.330+08:00  INFO 61958 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T16:15:12.337+08:00  INFO 61958 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T16:15:13.884+08:00  INFO 61996 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 61996 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T16:15:13.889+08:00  INFO 61996 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T16:15:14.328+08:00  INFO 61996 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T16:15:14.334+08:00  INFO 61996 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T16:15:14.335+08:00  INFO 61996 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T16:15:14.354+08:00  INFO 61996 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 444 ms
+2026-06-21T16:15:14.636+08:00  INFO 61996 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T16:15:14.639+08:00  INFO 61996 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.021 seconds (process running for 1.389)
+2026-06-21T16:15:29.567+08:00  INFO 61996 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T16:15:29.568+08:00  INFO 61996 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T16:15:29.571+08:00  INFO 61996 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2026-06-21T16:15:29.615+08:00  INFO 61996 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:15:29.615+08:00  INFO 61996 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:15:29.618+08:00  INFO 61996 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:15:29.725+08:00 ERROR 61996 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:15:29.775+08:00  INFO 61996 --- [http-nio-8080-exec-2] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T16:15:29.796+08:00  INFO 61996 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T16:15:29.899+08:00  INFO 61996 --- [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b3ed0dc
+2026-06-21T16:15:29.900+08:00  INFO 61996 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T16:15:31.859+08:00  INFO 61996 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:15:31.861+08:00 ERROR 61996 --- [http-nio-8080-exec-6] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:15:54.958+08:00  INFO 61996 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:15:54.973+08:00 ERROR 61996 --- [http-nio-8080-exec-7] t.curiez.mindlog.config.ExceptionHandle  : 异常发生,e:
+
+org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/x-www-form-urlencoded;charset=UTF-8' is not supported
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver.readWithMessageConverters(AbstractMessageConverterMethodArgumentResolver.java:235) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.readWithMessageConverters(RequestResponseBodyMethodProcessor.java:181) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:156) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:224) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:174) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2026-06-21T16:25:23.116+08:00  INFO 61996 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:25:23.136+08:00 ERROR 61996 --- [http-nio-8080-exec-1] t.curiez.mindlog.config.ExceptionHandle  : 异常发生,e:
+
+org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/x-www-form-urlencoded;charset=UTF-8' is not supported
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodArgumentResolver.readWithMessageConverters(AbstractMessageConverterMethodArgumentResolver.java:235) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.readWithMessageConverters(RequestResponseBodyMethodProcessor.java:181) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.resolveArgument(RequestResponseBodyMethodProcessor.java:156) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:122) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:224) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:174) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2026-06-21T16:37:14.769+08:00  INFO 61996 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T16:37:14.798+08:00  INFO 61996 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T16:37:14.803+08:00  INFO 61996 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T16:37:14.814+08:00  INFO 61996 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T16:37:16.340+08:00  INFO 62118 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 62118 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T16:37:16.342+08:00  INFO 62118 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T16:37:16.823+08:00  INFO 62118 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T16:37:16.831+08:00  INFO 62118 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T16:37:16.831+08:00  INFO 62118 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T16:37:16.849+08:00  INFO 62118 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 479 ms
+2026-06-21T16:37:17.179+08:00  INFO 62118 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T16:37:17.183+08:00  INFO 62118 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.089 seconds (process running for 1.476)
+2026-06-21T16:37:20.565+08:00  INFO 62118 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T16:37:20.566+08:00  INFO 62118 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T16:37:20.571+08:00  INFO 62118 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2026-06-21T16:37:20.731+08:00  INFO 62118 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:37:20.857+08:00 ERROR 62118 --- [http-nio-8080-exec-2] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:37:39.592+08:00  INFO 62118 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:37:39.694+08:00  INFO 62118 --- [http-nio-8080-exec-3] t.c.mindlog.controller.BlogController    : 添加博客,blogInfo:BlogInfo(id=null, title=admin 1#, content=##在这里写下一篇博客
+- admin的第一篇博客, userId=null, deleteFlag=null, createTime=null, updateTime=null)
+2026-06-21T16:37:39.704+08:00  INFO 62118 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T16:37:39.819+08:00  INFO 62118 --- [http-nio-8080-exec-3] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7af6eed7
+2026-06-21T16:37:39.821+08:00  INFO 62118 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T16:37:39.954+08:00  INFO 62118 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:37:39.954+08:00  INFO 62118 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:37:39.955+08:00  INFO 62118 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:37:39.955+08:00 ERROR 62118 --- [http-nio-8080-exec-6] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:37:39.957+08:00  INFO 62118 --- [http-nio-8080-exec-5] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T16:37:50.735+08:00  INFO 62118 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:37:50.735+08:00  INFO 62118 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:37:50.772+08:00  INFO 62118 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:37:50.774+08:00 ERROR 62118 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:37:51.807+08:00  INFO 62118 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:37:51.809+08:00 ERROR 62118 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:37:53.144+08:00  INFO 62118 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:37:53.144+08:00  INFO 62118 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:37:53.151+08:00  INFO 62118 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:37:53.154+08:00 ERROR 62118 --- [http-nio-8080-exec-6] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:37:53.942+08:00  INFO 62118 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:37:53.944+08:00 ERROR 62118 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:38:11.552+08:00  INFO 62118 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:38:11.552+08:00  INFO 62118 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T16:38:11.558+08:00  INFO 62118 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:38:11.559+08:00 ERROR 62118 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T16:38:15.559+08:00  INFO 62118 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T16:38:15.561+08:00 ERROR 62118 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T17:11:48.238+08:00  WARN 62118 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m35s115ms).
+2026-06-21T17:27:34.099+08:00  WARN 62118 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m45s864ms).
+2026-06-21T17:46:10.862+08:00  WARN 62118 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m6s754ms).
+2026-06-21T18:02:27.772+08:00  WARN 62118 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m46s897ms).
+2026-06-21T18:13:29.216+08:00  WARN 62118 --- [HikariPool-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m31s433ms).
+2026-06-21T19:23:43.015+08:00  INFO 62118 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T19:23:43.030+08:00  INFO 62118 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T19:23:43.034+08:00  INFO 62118 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T19:23:43.036+08:00  INFO 62118 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T19:23:44.674+08:00  INFO 63113 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 63113 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T19:23:44.677+08:00  INFO 63113 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T19:23:45.129+08:00  INFO 63113 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T19:23:45.135+08:00  INFO 63113 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T19:23:45.135+08:00  INFO 63113 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T19:23:45.154+08:00  INFO 63113 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 454 ms
+2026-06-21T19:23:45.464+08:00  INFO 63113 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T19:23:45.467+08:00  INFO 63113 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.052 seconds (process running for 1.492)
+2026-06-21T19:24:13.555+08:00  INFO 63113 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T19:24:13.556+08:00  INFO 63113 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T19:24:13.561+08:00  INFO 63113 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2026-06-21T19:24:13.624+08:00  INFO 63113 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:24:13.624+08:00  INFO 63113 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:24:13.682+08:00  INFO 63113 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:24:13.716+08:00 ERROR 63113 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:24:13.754+08:00  INFO 63113 --- [http-nio-8080-exec-8] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T19:24:13.772+08:00  INFO 63113 --- [http-nio-8080-exec-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T19:24:13.940+08:00  INFO 63113 --- [http-nio-8080-exec-8] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@39505c06
+2026-06-21T19:24:13.941+08:00  INFO 63113 --- [http-nio-8080-exec-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T19:24:49.805+08:00  INFO 63113 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:24:49.805+08:00  INFO 63113 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:24:49.808+08:00  INFO 63113 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:24:49.810+08:00 ERROR 63113 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:24:49.812+08:00  INFO 63113 --- [http-nio-8080-exec-5] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T19:24:53.882+08:00  INFO 63113 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:24:53.883+08:00  INFO 63113 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:24:53.882+08:00  INFO 63113 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:24:53.891+08:00 ERROR 63113 --- [http-nio-8080-exec-2] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:24:55.078+08:00  INFO 63113 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:24:55.080+08:00 ERROR 63113 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:25:03.770+08:00  INFO 63113 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:25:03.770+08:00  INFO 63113 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:25:03.803+08:00  INFO 63113 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:25:03.805+08:00 ERROR 63113 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:25:06.095+08:00  INFO 63113 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:25:06.099+08:00 ERROR 63113 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:25:13.408+08:00  INFO 63113 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:25:13.411+08:00 ERROR 63113 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:25:17.459+08:00  INFO 63113 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:25:17.462+08:00 ERROR 63113 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:25:18.708+08:00  INFO 63113 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:25:18.708+08:00  INFO 63113 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:25:18.715+08:00  INFO 63113 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:25:18.717+08:00 ERROR 63113 --- [http-nio-8080-exec-6] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:25:20.745+08:00  INFO 63113 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:25:20.748+08:00 ERROR 63113 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:25:22.030+08:00  INFO 63113 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:25:22.031+08:00  INFO 63113 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:25:22.032+08:00  INFO 63113 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:25:22.033+08:00 ERROR 63113 --- [http-nio-8080-exec-2] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:26:45.640+08:00  INFO 63113 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T19:26:45.649+08:00  INFO 63113 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T19:26:45.652+08:00  INFO 63113 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T19:26:45.657+08:00  INFO 63113 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T19:26:47.263+08:00  INFO 63208 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 63208 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T19:26:47.268+08:00  INFO 63208 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T19:26:47.705+08:00  INFO 63208 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T19:26:47.712+08:00  INFO 63208 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T19:26:47.712+08:00  INFO 63208 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T19:26:47.729+08:00  INFO 63208 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 441 ms
+2026-06-21T19:26:48.006+08:00  INFO 63208 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T19:26:48.009+08:00  INFO 63208 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.021 seconds (process running for 1.37)
+2026-06-21T19:26:53.041+08:00  INFO 63208 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T19:26:53.042+08:00  INFO 63208 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T19:26:53.045+08:00  INFO 63208 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2026-06-21T19:26:53.102+08:00  INFO 63208 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:26:53.102+08:00  INFO 63208 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:26:53.102+08:00  INFO 63208 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:26:53.202+08:00 ERROR 63208 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:26:53.267+08:00  INFO 63208 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T19:26:53.386+08:00  INFO 63208 --- [http-nio-8080-exec-3] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d17c0b5
+2026-06-21T19:26:53.387+08:00  INFO 63208 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T19:27:16.199+08:00  INFO 63208 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:27:16.202+08:00 ERROR 63208 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:31:02.438+08:00  INFO 63208 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:31:02.438+08:00  INFO 63208 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:31:02.480+08:00  INFO 63208 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:31:02.481+08:00 ERROR 63208 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:31:03.468+08:00  INFO 63208 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:31:03.470+08:00 ERROR 63208 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:31:04.721+08:00  INFO 63208 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:31:04.721+08:00  INFO 63208 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:31:04.731+08:00  INFO 63208 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:31:04.733+08:00 ERROR 63208 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:31:05.516+08:00  INFO 63208 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:31:05.518+08:00 ERROR 63208 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:31:06.737+08:00  INFO 63208 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:31:06.737+08:00  INFO 63208 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:31:06.744+08:00  INFO 63208 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:31:06.746+08:00 ERROR 63208 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:31:07.529+08:00  INFO 63208 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:31:07.534+08:00 ERROR 63208 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:31:08.395+08:00  INFO 63208 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:31:08.398+08:00  INFO 63208 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:31:08.396+08:00  INFO 63208 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:31:08.402+08:00 ERROR 63208 --- [http-nio-8080-exec-6] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:31:09.289+08:00  INFO 63208 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:31:09.292+08:00 ERROR 63208 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:41:28.413+08:00  INFO 63208 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T19:41:28.429+08:00  INFO 63208 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T19:41:28.432+08:00  INFO 63208 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T19:41:28.441+08:00  INFO 63208 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T19:41:30.725+08:00  INFO 63474 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 63474 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T19:41:30.727+08:00  INFO 63474 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T19:41:31.159+08:00  INFO 63474 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T19:41:31.165+08:00  INFO 63474 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T19:41:31.165+08:00  INFO 63474 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T19:41:31.182+08:00  INFO 63474 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 433 ms
+2026-06-21T19:41:31.483+08:00  INFO 63474 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T19:41:31.486+08:00  INFO 63474 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.002 seconds (process running for 1.309)
+2026-06-21T19:42:11.788+08:00  INFO 63474 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T19:42:11.789+08:00  INFO 63474 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T19:42:11.791+08:00  INFO 63474 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2026-06-21T19:42:11.804+08:00  INFO 63474 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:42:11.898+08:00 ERROR 63474 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:43:43.821+08:00  INFO 63474 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:43:43.829+08:00 ERROR 63474 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:44:23.147+08:00  INFO 63474 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:44:23.220+08:00 ERROR 63474 --- [http-nio-8080-exec-5] t.curiez.mindlog.config.ExceptionHandle  : 异常发生,e:
+
+org.springframework.web.servlet.resource.NoResourceFoundException: No static resource user/getBlogDetail for request '/user/getBlogDetail'.
+	at org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:526) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:50) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2026-06-21T19:45:54.251+08:00  INFO 63474 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:45:54.293+08:00  INFO 63474 --- [http-nio-8080-exec-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T19:45:54.439+08:00  INFO 63474 --- [http-nio-8080-exec-7] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54b8cf6c
+2026-06-21T19:45:54.440+08:00  INFO 63474 --- [http-nio-8080-exec-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T19:46:57.658+08:00  INFO 63474 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:46:57.691+08:00 ERROR 63474 --- [http-nio-8080-exec-1] t.curiez.mindlog.config.ExceptionHandle  : 异常发生,e:
+
+java.lang.NullPointerException: Cannot invoke "top.curiez.mindlog.model.BlogInfo.getUserId()" because "blogDetail" is null
+	at top.curiez.mindlog.controller.BlogController.getBlogDetail(BlogController.java:35) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2026-06-21T19:47:01.258+08:00  INFO 63474 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:47:01.287+08:00 ERROR 63474 --- [http-nio-8080-exec-2] t.curiez.mindlog.config.ExceptionHandle  : 异常发生,e:
+
+java.lang.NullPointerException: Cannot invoke "top.curiez.mindlog.model.BlogInfo.getUserId()" because "blogDetail" is null
+	at top.curiez.mindlog.controller.BlogController.getBlogDetail(BlogController.java:35) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.7.jar:7.0.7]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.21.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.7.jar:7.0.7]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.21.jar:11.0.21]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2026-06-21T19:47:12.304+08:00  INFO 63474 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:47:22.962+08:00  INFO 63474 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:47:22.963+08:00  INFO 63474 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:47:22.965+08:00  INFO 63474 --- [http-nio-8080-exec-5] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T19:47:22.971+08:00  INFO 63474 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:47:22.974+08:00 ERROR 63474 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:47:24.407+08:00  INFO 63474 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:47:24.407+08:00  INFO 63474 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:47:24.446+08:00  INFO 63474 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:47:24.448+08:00 ERROR 63474 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:47:47.019+08:00  INFO 63474 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:05.187+08:00  INFO 63474 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T19:55:05.206+08:00  INFO 63474 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T19:55:05.211+08:00  INFO 63474 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T19:55:05.218+08:00  INFO 63474 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T19:55:06.847+08:00  INFO 63743 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 63743 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T19:55:06.848+08:00  INFO 63743 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T19:55:07.287+08:00  INFO 63743 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T19:55:07.294+08:00  INFO 63743 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T19:55:07.294+08:00  INFO 63743 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T19:55:07.314+08:00  INFO 63743 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 445 ms
+2026-06-21T19:55:07.625+08:00  INFO 63743 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T19:55:07.628+08:00  INFO 63743 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.083 seconds (process running for 1.522)
+2026-06-21T19:55:15.977+08:00  INFO 63743 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T19:55:15.978+08:00  INFO 63743 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T19:55:15.982+08:00  INFO 63743 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2026-06-21T19:55:16.057+08:00  INFO 63743 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:16.057+08:00  INFO 63743 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:16.129+08:00  INFO 63743 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:16.164+08:00 ERROR 63743 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:16.239+08:00  INFO 63743 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T19:55:16.359+08:00  INFO 63743 --- [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@517026c3
+2026-06-21T19:55:16.360+08:00  INFO 63743 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T19:55:17.214+08:00  INFO 63743 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:17.216+08:00 ERROR 63743 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:18.551+08:00  INFO 63743 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:18.551+08:00  INFO 63743 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:18.594+08:00  INFO 63743 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:18.595+08:00 ERROR 63743 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:20.464+08:00  INFO 63743 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:20.466+08:00 ERROR 63743 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:21.659+08:00  INFO 63743 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:21.659+08:00  INFO 63743 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:21.660+08:00  INFO 63743 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:21.661+08:00 ERROR 63743 --- [http-nio-8080-exec-2] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:22.416+08:00  INFO 63743 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:22.418+08:00 ERROR 63743 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:23.771+08:00  INFO 63743 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:23.771+08:00  INFO 63743 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:23.778+08:00  INFO 63743 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:23.782+08:00 ERROR 63743 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:24.422+08:00  INFO 63743 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:24.425+08:00 ERROR 63743 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:25.471+08:00  INFO 63743 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:25.471+08:00  INFO 63743 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:25.492+08:00  INFO 63743 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:25.493+08:00 ERROR 63743 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:26.683+08:00  INFO 63743 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:26.685+08:00 ERROR 63743 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:27.618+08:00  INFO 63743 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:27.618+08:00  INFO 63743 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:27.624+08:00  INFO 63743 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:27.627+08:00 ERROR 63743 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:29.779+08:00  INFO 63743 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:29.785+08:00 ERROR 63743 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:31.836+08:00  INFO 63743 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:31.837+08:00  INFO 63743 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:31.842+08:00  INFO 63743 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:31.845+08:00 ERROR 63743 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:32.795+08:00  INFO 63743 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:32.803+08:00 ERROR 63743 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:55.919+08:00  INFO 63743 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:55.919+08:00  INFO 63743 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:55:55.927+08:00  INFO 63743 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:55.928+08:00 ERROR 63743 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:55:58.807+08:00  INFO 63743 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:55:58.809+08:00 ERROR 63743 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:56:00.526+08:00  INFO 63743 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:56:00.526+08:00  INFO 63743 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:56:00.546+08:00  INFO 63743 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:56:00.548+08:00 ERROR 63743 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:56:02.110+08:00  INFO 63743 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:56:02.110+08:00  INFO 63743 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:56:02.113+08:00  INFO 63743 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:56:02.113+08:00  INFO 63743 --- [http-nio-8080-exec-5] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T19:56:02.114+08:00 ERROR 63743 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:56:31.652+08:00  INFO 63743 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:56:31.652+08:00  INFO 63743 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T19:56:31.686+08:00  INFO 63743 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:56:31.688+08:00 ERROR 63743 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T19:56:32.676+08:00  INFO 63743 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T19:56:32.678+08:00 ERROR 63743 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:21:24.056+08:00  INFO 63743 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:21:24.081+08:00  INFO 63743 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:21:24.085+08:00  INFO 63743 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:21:24.091+08:00  INFO 63743 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:21:26.792+08:00  INFO 64079 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64079 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:21:26.794+08:00  INFO 64079 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:21:27.235+08:00  INFO 64079 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:21:27.241+08:00  INFO 64079 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:21:27.241+08:00  INFO 64079 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:21:27.262+08:00  INFO 64079 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 444 ms
+2026-06-21T20:21:27.546+08:00  INFO 64079 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:21:27.549+08:00  INFO 64079 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.121 seconds (process running for 1.436)
+2026-06-21T20:21:35.455+08:00  INFO 64079 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:21:35.456+08:00  INFO 64079 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:21:35.462+08:00  INFO 64079 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2026-06-21T20:21:35.525+08:00  INFO 64079 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:35.525+08:00  INFO 64079 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:35.527+08:00  INFO 64079 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:21:35.624+08:00 ERROR 64079 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:21:35.668+08:00  INFO 64079 --- [http-nio-8080-exec-2] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:21:35.684+08:00  INFO 64079 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:21:35.786+08:00  INFO 64079 --- [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@179e3ce5
+2026-06-21T20:21:35.787+08:00  INFO 64079 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:21:37.080+08:00  INFO 64079 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:37.080+08:00  INFO 64079 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:37.103+08:00  INFO 64079 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:21:37.105+08:00 ERROR 64079 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:21:37.774+08:00  INFO 64079 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:21:37.782+08:00 ERROR 64079 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:21:38.825+08:00  INFO 64079 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:38.828+08:00  INFO 64079 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:21:38.828+08:00  INFO 64079 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:38.831+08:00 ERROR 64079 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:21:39.370+08:00  INFO 64079 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:21:39.373+08:00 ERROR 64079 --- [http-nio-8080-exec-2] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:21:40.358+08:00  INFO 64079 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:40.358+08:00  INFO 64079 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:40.364+08:00  INFO 64079 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:21:40.384+08:00 ERROR 64079 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:21:45.109+08:00  INFO 64079 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:21:45.110+08:00 ERROR 64079 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:21:49.634+08:00  INFO 64079 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:49.634+08:00  INFO 64079 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:21:49.635+08:00  INFO 64079 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:21:49.639+08:00 ERROR 64079 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:21:50.683+08:00  INFO 64079 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:21:50.685+08:00 ERROR 64079 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:29:13.789+08:00  INFO 64079 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:29:13.818+08:00  INFO 64079 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:29:13.827+08:00  INFO 64079 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:29:13.834+08:00  INFO 64079 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:29:16.442+08:00  INFO 64165 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64165 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:29:16.443+08:00  INFO 64165 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:29:16.995+08:00  INFO 64165 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:29:17.002+08:00  INFO 64165 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:29:17.002+08:00  INFO 64165 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:29:17.029+08:00  INFO 64165 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 555 ms
+2026-06-21T20:29:17.320+08:00  INFO 64165 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:29:17.323+08:00  INFO 64165 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.213 seconds (process running for 1.629)
+2026-06-21T20:29:24.990+08:00  INFO 64165 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:29:24.990+08:00  INFO 64165 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:29:24.993+08:00  INFO 64165 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2026-06-21T20:29:25.053+08:00  INFO 64165 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:25.053+08:00  INFO 64165 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:25.061+08:00  INFO 64165 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:29:25.148+08:00 ERROR 64165 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:29:25.186+08:00  INFO 64165 --- [http-nio-8080-exec-2] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:29:25.204+08:00  INFO 64165 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:29:25.376+08:00  INFO 64165 --- [http-nio-8080-exec-3] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1e69aef2
+2026-06-21T20:29:25.380+08:00  INFO 64165 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:29:28.146+08:00  INFO 64165 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:28.145+08:00  INFO 64165 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:28.182+08:00  INFO 64165 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:29:28.184+08:00 ERROR 64165 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:29:29.433+08:00  INFO 64165 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:29.443+08:00  INFO 64165 --- [http-nio-8080-exec-9] t.c.mindlog.controller.BlogController    : 删除博客,blogId;5
+2026-06-21T20:29:29.548+08:00  INFO 64165 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:29.549+08:00  INFO 64165 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:29.553+08:00  INFO 64165 --- [http-nio-8080-exec-10] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:29:29.557+08:00  INFO 64165 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:29:29.561+08:00 ERROR 64165 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:29:31.580+08:00  INFO 64165 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:31.582+08:00  INFO 64165 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:29:31.582+08:00  INFO 64165 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:31.585+08:00 ERROR 64165 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:29:32.379+08:00  INFO 64165 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:29:32.382+08:00 ERROR 64165 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:29:33.523+08:00  INFO 64165 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:33.523+08:00  INFO 64165 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:33.533+08:00  INFO 64165 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:29:33.535+08:00 ERROR 64165 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:29:34.974+08:00  INFO 64165 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:34.979+08:00  INFO 64165 --- [http-nio-8080-exec-1] t.c.mindlog.controller.BlogController    : 删除博客,blogId;5
+2026-06-21T20:29:35.029+08:00  INFO 64165 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:35.029+08:00  INFO 64165 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:35.030+08:00  INFO 64165 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:29:35.031+08:00 ERROR 64165 --- [http-nio-8080-exec-2] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:29:35.032+08:00  INFO 64165 --- [http-nio-8080-exec-3] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:29:36.733+08:00  INFO 64165 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:36.733+08:00  INFO 64165 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:36.736+08:00  INFO 64165 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:29:36.736+08:00  INFO 64165 --- [http-nio-8080-exec-7] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:29:36.737+08:00 ERROR 64165 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:29:40.571+08:00  INFO 64165 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:40.571+08:00  INFO 64165 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:29:40.578+08:00  INFO 64165 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:29:40.583+08:00 ERROR 64165 --- [http-nio-8080-exec-2] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:30:52.602+08:00  INFO 64165 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:30:52.612+08:00  INFO 64165 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:30:52.615+08:00  INFO 64165 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:30:52.622+08:00  INFO 64165 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:30:54.015+08:00  INFO 64195 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64195 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:30:54.017+08:00  INFO 64195 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:30:54.449+08:00  INFO 64195 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:30:54.457+08:00  INFO 64195 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:30:54.457+08:00  INFO 64195 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:30:54.478+08:00  INFO 64195 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 438 ms
+2026-06-21T20:30:54.794+08:00  INFO 64195 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:30:54.798+08:00  INFO 64195 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.136 seconds (process running for 1.405)
+2026-06-21T20:31:01.362+08:00  INFO 64195 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:31:01.363+08:00  INFO 64195 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:31:01.367+08:00  INFO 64195 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2026-06-21T20:31:01.422+08:00  INFO 64195 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:31:01.422+08:00  INFO 64195 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:31:01.457+08:00  INFO 64195 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:31:01.512+08:00 ERROR 64195 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:31:01.564+08:00  INFO 64195 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:31:01.648+08:00  INFO 64195 --- [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3e25025b
+2026-06-21T20:31:01.649+08:00  INFO 64195 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:31:03.891+08:00  INFO 64195 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:31:03.894+08:00  INFO 64195 --- [http-nio-8080-exec-5] t.c.mindlog.controller.BlogController    : 删除博客,blogId;5
+2026-06-21T20:31:03.979+08:00  INFO 64195 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:31:03.982+08:00  INFO 64195 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:31:03.983+08:00  INFO 64195 --- [http-nio-8080-exec-6] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:31:03.983+08:00  INFO 64195 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:31:03.984+08:00 ERROR 64195 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:31:06.225+08:00  INFO 64195 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:31:06.225+08:00  INFO 64195 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:31:06.249+08:00  INFO 64195 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:31:06.251+08:00 ERROR 64195 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:31:06.958+08:00  INFO 64195 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:31:06.960+08:00 ERROR 64195 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:33:04.951+08:00  INFO 64195 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:33:04.951+08:00  INFO 64195 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:33:04.951+08:00  INFO 64195 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:33:04.956+08:00 ERROR 64195 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:33:25.368+08:00  INFO 64195 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:33:25.374+08:00 ERROR 64195 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:36:01.265+08:00  INFO 64195 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:36:01.279+08:00  INFO 64195 --- [http-nio-8080-exec-3] t.c.mindlog.controller.BlogController    : 删除博客,blogId;5
+2026-06-21T20:36:01.424+08:00  INFO 64195 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:36:01.427+08:00  INFO 64195 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:36:01.429+08:00  INFO 64195 --- [http-nio-8080-exec-5] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:36:01.485+08:00  INFO 64195 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:36:01.488+08:00 ERROR 64195 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:36:07.330+08:00  INFO 64195 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:36:07.342+08:00  INFO 64195 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:36:07.345+08:00  INFO 64195 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:36:07.351+08:00  INFO 64195 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:39:46.416+08:00  INFO 64339 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64339 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:39:46.423+08:00  INFO 64339 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:39:46.864+08:00  INFO 64339 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:39:46.870+08:00  INFO 64339 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:39:46.870+08:00  INFO 64339 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:39:46.886+08:00  INFO 64339 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 437 ms
+2026-06-21T20:39:47.171+08:00  INFO 64339 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:39:47.174+08:00  INFO 64339 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.015 seconds (process running for 1.47)
+2026-06-21T20:39:49.288+08:00  INFO 64339 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:39:49.288+08:00  INFO 64339 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:39:49.290+08:00  INFO 64339 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2026-06-21T20:39:49.346+08:00  INFO 64339 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:49.346+08:00  INFO 64339 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:49.460+08:00  INFO 64339 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:39:49.493+08:00 ERROR 64339 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:39:49.554+08:00  INFO 64339 --- [http-nio-8080-exec-2] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:39:49.576+08:00  INFO 64339 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:39:49.737+08:00  INFO 64339 --- [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@42e3d0ee
+2026-06-21T20:39:49.738+08:00  INFO 64339 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:39:50.746+08:00  INFO 64339 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:50.746+08:00  INFO 64339 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:50.751+08:00  INFO 64339 --- [http-nio-8080-exec-6] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:39:50.751+08:00  INFO 64339 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:39:50.752+08:00 ERROR 64339 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:39:52.757+08:00  INFO 64339 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:52.757+08:00  INFO 64339 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:52.789+08:00  INFO 64339 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:39:52.791+08:00 ERROR 64339 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:39:53.713+08:00  INFO 64339 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:53.717+08:00  INFO 64339 --- [http-nio-8080-exec-3] t.c.mindlog.controller.BlogController    : 删除博客,blogId;5
+2026-06-21T20:39:53.825+08:00  INFO 64339 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:53.826+08:00  INFO 64339 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:53.826+08:00  INFO 64339 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:39:53.827+08:00 ERROR 64339 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:39:53.828+08:00  INFO 64339 --- [http-nio-8080-exec-5] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:39:55.442+08:00  INFO 64339 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:55.442+08:00  INFO 64339 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:55.451+08:00  INFO 64339 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:39:55.453+08:00 ERROR 64339 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:39:56.479+08:00  INFO 64339 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:56.482+08:00  INFO 64339 --- [http-nio-8080-exec-10] t.c.mindlog.controller.BlogController    : 删除博客,blogId;5
+2026-06-21T20:39:56.531+08:00  INFO 64339 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:56.532+08:00  INFO 64339 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:39:56.533+08:00  INFO 64339 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:39:56.535+08:00 ERROR 64339 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:39:56.535+08:00  INFO 64339 --- [http-nio-8080-exec-4] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:40:20.914+08:00  INFO 64339 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:40:20.925+08:00  INFO 64339 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:40:20.931+08:00  INFO 64339 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:40:20.935+08:00  INFO 64339 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:40:22.870+08:00  INFO 64355 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64355 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:40:22.872+08:00  INFO 64355 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:40:23.291+08:00  INFO 64355 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:40:23.297+08:00  INFO 64355 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:40:23.297+08:00  INFO 64355 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:40:23.313+08:00  INFO 64355 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 422 ms
+2026-06-21T20:40:23.576+08:00  INFO 64355 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:40:23.580+08:00  INFO 64355 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.112 seconds (process running for 1.719)
+2026-06-21T20:40:28.718+08:00  INFO 64355 --- [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:40:28.719+08:00  INFO 64355 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:40:28.721+08:00  INFO 64355 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2026-06-21T20:40:28.735+08:00  INFO 64355 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:40:28.735+08:00  INFO 64355 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:40:28.735+08:00  INFO 64355 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:40:28.811+08:00 ERROR 64355 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:40:28.856+08:00  INFO 64355 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:40:28.996+08:00  INFO 64355 --- [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b92bb91
+2026-06-21T20:40:28.997+08:00  INFO 64355 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:40:34.636+08:00  INFO 64355 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:40:34.647+08:00  INFO 64355 --- [http-nio-8080-exec-4] t.c.mindlog.controller.BlogController    : 删除博客,blogId;5
+2026-06-21T20:40:34.733+08:00  INFO 64355 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:40:34.733+08:00  INFO 64355 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:40:34.733+08:00  INFO 64355 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:40:34.736+08:00  INFO 64355 --- [http-nio-8080-exec-5] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:40:34.737+08:00 ERROR 64355 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:43:12.876+08:00  INFO 64355 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:43:12.893+08:00  INFO 64355 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:43:12.898+08:00  INFO 64355 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:43:12.905+08:00  INFO 64355 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:43:17.053+08:00  INFO 64472 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64472 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:43:17.059+08:00  INFO 64472 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:43:17.498+08:00  INFO 64472 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:43:17.504+08:00  INFO 64472 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:43:17.504+08:00  INFO 64472 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:43:17.522+08:00  INFO 64472 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 444 ms
+2026-06-21T20:43:17.816+08:00  INFO 64472 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:43:17.819+08:00  INFO 64472 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.013 seconds (process running for 1.342)
+2026-06-21T20:43:28.117+08:00  INFO 64472 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:43:28.118+08:00  INFO 64472 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:43:28.124+08:00  INFO 64472 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2026-06-21T20:43:28.203+08:00  INFO 64472 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:43:28.207+08:00  INFO 64472 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:43:28.232+08:00  INFO 64472 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:43:28.309+08:00 ERROR 64472 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:43:28.353+08:00  INFO 64472 --- [http-nio-8080-exec-2] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:43:28.365+08:00  INFO 64472 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:43:28.523+08:00  INFO 64472 --- [http-nio-8080-exec-3] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@9f1caa6
+2026-06-21T20:43:28.525+08:00  INFO 64472 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:43:29.978+08:00  INFO 64472 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:43:29.979+08:00  INFO 64472 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:43:29.987+08:00  INFO 64472 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:43:29.989+08:00 ERROR 64472 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:43:34.769+08:00  INFO 64472 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:43:34.779+08:00  INFO 64472 --- [http-nio-8080-exec-9] t.c.mindlog.controller.BlogController    : 删除博客,blogId;5
+2026-06-21T20:43:34.883+08:00  INFO 64472 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:43:34.884+08:00  INFO 64472 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:43:34.887+08:00  INFO 64472 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:43:34.887+08:00  INFO 64472 --- [http-nio-8080-exec-10] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:43:34.888+08:00 ERROR 64472 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:50:39.961+08:00  INFO 64472 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:50:39.990+08:00  INFO 64472 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:50:39.994+08:00  INFO 64472 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:50:40.001+08:00  INFO 64472 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:51:22.531+08:00  INFO 64707 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64707 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:51:22.532+08:00  INFO 64707 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:51:22.968+08:00  INFO 64707 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:51:22.975+08:00  INFO 64707 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:51:22.975+08:00  INFO 64707 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:51:22.991+08:00  INFO 64707 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 437 ms
+2026-06-21T20:51:23.272+08:00  INFO 64707 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:51:23.275+08:00  INFO 64707 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.024 seconds (process running for 1.353)
+2026-06-21T20:51:36.334+08:00  INFO 64707 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:51:36.335+08:00  INFO 64707 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:51:36.342+08:00  INFO 64707 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2026-06-21T20:51:36.398+08:00  INFO 64707 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:51:36.398+08:00  INFO 64707 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:51:36.405+08:00  INFO 64707 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:51:36.507+08:00 ERROR 64707 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:51:36.543+08:00  INFO 64707 --- [http-nio-8080-exec-2] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:51:36.563+08:00  INFO 64707 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:51:36.676+08:00  INFO 64707 --- [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4018c455
+2026-06-21T20:51:36.677+08:00  INFO 64707 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:51:53.716+08:00  INFO 64707 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:51:53.718+08:00  INFO 64707 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MywidXNlck5hbWUiOiJhZG1pbiIsImV4cCI6MTc4MjExNTcxOX0.hvGB5R5ofn1SSEtujCX8WESc23N_L4gL6uZWqa0wDmg
+2026-06-21T20:51:53.722+08:00  INFO 64707 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:51:53.724+08:00 ERROR 64707 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:51:53.725+08:00  INFO 64707 --- [http-nio-8080-exec-6] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:52:19.032+08:00  INFO 64707 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:19.035+08:00 ERROR 64707 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:52:25.575+08:00  INFO 64707 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:25.575+08:00  INFO 64707 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:25.578+08:00  INFO 64707 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:25.579+08:00  INFO 64707 --- [http-nio-8080-exec-3] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:52:25.579+08:00 ERROR 64707 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:52:30.774+08:00  INFO 64707 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:30.774+08:00  INFO 64707 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:30.776+08:00  INFO 64707 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:30.777+08:00 ERROR 64707 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:52:32.686+08:00  INFO 64707 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:32.691+08:00 ERROR 64707 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:52:35.094+08:00  INFO 64707 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:35.094+08:00  INFO 64707 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:35.097+08:00  INFO 64707 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:35.098+08:00 ERROR 64707 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:52:37.196+08:00  INFO 64707 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:37.198+08:00 ERROR 64707 --- [http-nio-8080-exec-2] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:52:38.891+08:00  INFO 64707 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:38.895+08:00  INFO 64707 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:38.896+08:00  INFO 64707 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:38.897+08:00 ERROR 64707 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:52:43.520+08:00  INFO 64707 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:43.528+08:00 ERROR 64707 --- [http-nio-8080-exec-7] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:52:44.760+08:00  INFO 64707 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:44.760+08:00  INFO 64707 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:52:44.762+08:00  INFO 64707 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:44.763+08:00 ERROR 64707 --- [http-nio-8080-exec-1] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:52:52.885+08:00  INFO 64707 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:52:52.887+08:00 ERROR 64707 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:53:21.226+08:00  INFO 64707 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:53:21.226+08:00  INFO 64707 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:53:21.258+08:00  INFO 64707 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:53:21.261+08:00 ERROR 64707 --- [http-nio-8080-exec-3] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:53:23.366+08:00  INFO 64707 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:53:23.367+08:00 ERROR 64707 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:53:25.942+08:00  INFO 64707 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:53:25.944+08:00  INFO 64707 --- [http-nio-8080-exec-10] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:53:25.946+08:00  INFO 64707 --- [http-nio-8080-exec-1] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:53:25.954+08:00 ERROR 64707 --- [http-nio-8080-exec-10] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:53:47.673+08:00  INFO 64707 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:53:47.682+08:00  INFO 64707 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:53:47.685+08:00  INFO 64707 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:53:47.690+08:00  INFO 64707 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:53:49.333+08:00  INFO 64817 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64817 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:53:49.336+08:00  INFO 64817 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:53:49.787+08:00  INFO 64817 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:53:49.792+08:00  INFO 64817 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:53:49.792+08:00  INFO 64817 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:53:49.807+08:00  INFO 64817 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 447 ms
+2026-06-21T20:53:50.069+08:00  INFO 64817 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:53:50.072+08:00  INFO 64817 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.08 seconds (process running for 1.453)
+2026-06-21T20:53:56.337+08:00  INFO 64817 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:53:56.338+08:00  INFO 64817 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:53:56.341+08:00  INFO 64817 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2026-06-21T20:53:56.400+08:00  INFO 64817 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:53:56.400+08:00  INFO 64817 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:53:56.402+08:00  INFO 64817 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:53:56.497+08:00 ERROR 64817 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:53:56.556+08:00  INFO 64817 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:53:56.648+08:00  INFO 64817 --- [http-nio-8080-exec-3] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@76108ca0
+2026-06-21T20:53:56.649+08:00  INFO 64817 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:53:58.066+08:00  INFO 64817 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:53:58.067+08:00 ERROR 64817 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:54:00.065+08:00  INFO 64817 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:54:00.065+08:00  INFO 64817 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:54:00.067+08:00  INFO 64817 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:54:00.067+08:00  INFO 64817 --- [http-nio-8080-exec-7] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:54:00.069+08:00 ERROR 64817 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:54:29.063+08:00  INFO 64817 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:54:29.070+08:00  INFO 64817 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:54:29.074+08:00  INFO 64817 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:54:29.081+08:00  INFO 64817 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:54:30.565+08:00  INFO 64874 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64874 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:54:30.566+08:00  INFO 64874 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:54:30.991+08:00  INFO 64874 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:54:30.997+08:00  INFO 64874 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:54:30.997+08:00  INFO 64874 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:54:31.014+08:00  INFO 64874 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 426 ms
+2026-06-21T20:54:31.275+08:00  INFO 64874 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:54:31.278+08:00  INFO 64874 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.032 seconds (process running for 1.296)
+2026-06-21T20:54:36.690+08:00  INFO 64874 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:54:36.690+08:00  INFO 64874 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:54:36.694+08:00  INFO 64874 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2026-06-21T20:54:36.737+08:00  INFO 64874 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:54:36.737+08:00  INFO 64874 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:54:36.738+08:00  INFO 64874 --- [http-nio-8080-exec-5] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:54:36.819+08:00 ERROR 64874 --- [http-nio-8080-exec-5] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:54:36.854+08:00  INFO 64874 --- [http-nio-8080-exec-2] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:54:36.866+08:00  INFO 64874 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:54:36.960+08:00  INFO 64874 --- [http-nio-8080-exec-2] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4ccd16df
+2026-06-21T20:54:36.961+08:00  INFO 64874 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:55:52.473+08:00  INFO 64874 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:55:52.482+08:00  INFO 64874 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:55:52.486+08:00  INFO 64874 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:55:52.491+08:00  INFO 64874 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:55:54.031+08:00  INFO 64960 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 64960 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:55:54.032+08:00  INFO 64960 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:55:54.482+08:00  INFO 64960 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:55:54.488+08:00  INFO 64960 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:55:54.488+08:00  INFO 64960 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:55:54.508+08:00  INFO 64960 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 454 ms
+2026-06-21T20:55:54.789+08:00  INFO 64960 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:55:54.792+08:00  INFO 64960 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.132 seconds (process running for 1.428)
+2026-06-21T20:56:00.438+08:00  INFO 64960 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-21T20:56:00.439+08:00  INFO 64960 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-06-21T20:56:00.443+08:00  INFO 64960 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2026-06-21T20:56:00.481+08:00  INFO 64960 --- [http-nio-8080-exec-2] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:56:00.481+08:00  INFO 64960 --- [http-nio-8080-exec-3] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:56:00.488+08:00  INFO 64960 --- [http-nio-8080-exec-4] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:56:00.583+08:00 ERROR 64960 --- [http-nio-8080-exec-4] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:56:00.616+08:00  INFO 64960 --- [http-nio-8080-exec-2] t.c.mindlog.controller.BlogController    : 获取博客列表
+2026-06-21T20:56:00.628+08:00  INFO 64960 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-21T20:56:00.743+08:00  INFO 64960 --- [http-nio-8080-exec-3] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b123a54
+2026-06-21T20:56:00.744+08:00  INFO 64960 --- [http-nio-8080-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-21T20:56:03.156+08:00  INFO 64960 --- [http-nio-8080-exec-6] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:56:03.158+08:00  INFO 64960 --- [http-nio-8080-exec-7] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJjdXJpZXoiLCJleHAiOjE3ODIxMzI3NDV9.Ty6KIS8YqRhUTYkyGA5d4eoSrqD2ku1mmirBz5hBhD4
+2026-06-21T20:56:03.163+08:00  INFO 64960 --- [http-nio-8080-exec-8] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:56:03.165+08:00 ERROR 64960 --- [http-nio-8080-exec-8] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:56:04.088+08:00  INFO 64960 --- [http-nio-8080-exec-9] t.c.m.interceptor.LoginInterceptor       : 从header中获取token:null
+2026-06-21T20:56:04.092+08:00 ERROR 64960 --- [http-nio-8080-exec-9] top.curiez.mindlog.utils.JwtUtils        : 解析token失败，token:null
+2026-06-21T20:56:45.045+08:00  INFO 64960 --- [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-06-21T20:56:45.052+08:00  INFO 64960 --- [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-06-21T20:56:45.055+08:00  INFO 64960 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-21T20:56:45.060+08:00  INFO 64960 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-21T20:56:46.947+08:00  INFO 65049 --- [main] top.curiez.mindlog.MindLogApplication    : Starting MindLogApplication using Java 17.0.18 with PID 65049 (/Users/curiez/javacode/mind-log/mind-log/target/classes started by curiez in /Users/curiez/javacode/mind-log/mind-log)
+2026-06-21T20:56:46.951+08:00  INFO 65049 --- [main] top.curiez.mindlog.MindLogApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-06-21T20:56:47.414+08:00  INFO 65049 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-06-21T20:56:47.420+08:00  INFO 65049 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-21T20:56:47.422+08:00  INFO 65049 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-21T20:56:47.444+08:00  INFO 65049 --- [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 456 ms
+2026-06-21T20:56:47.709+08:00  INFO 65049 --- [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-06-21T20:56:47.712+08:00  INFO 65049 --- [main] top.curiez.mindlog.MindLogApplication    : Started MindLogApplication in 1.284 seconds (process running for 1.748)
