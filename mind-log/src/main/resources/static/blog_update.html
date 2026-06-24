@@ -39,19 +39,47 @@
     <script src="js/common.js"></script>
     <script type="text/javascript">
 
-        $(function () {
-            var editor = editormd("editor", {
-                width  : "100%",
-                height : "550px",
-                path: "blog-editormd/lib/"
-            });
-        });
         
         function submit() {
-           
+           $.ajax({
+               type:"post",
+               url:"blog/update",
+               data:{
+                   id:$("#blogId").val(),
+                   title:$("#title").val(),
+                   content:$("#content").val()
+               },
+               success:function (result) {
+                   if(result.code=="SUCCESS"&&result.data) {
+                       location.href = "blog_list.html"
+                   }else {
+                       alert(result.errMsg)
+                   }
+               }
+           })
         }
         function getBlogInfo() {
-            
+            $.ajax({
+                type:"get",
+                url:"blog/getBlogDetail"+location.search,
+                success:function (result) {
+                    if(result.code=="SUCCESS"&&result.data!=null) {
+                        $("#blogId").val(result.data.id);
+                        $("#title").val(result.data.title);
+                        editormd("editor", {
+                            width  : "100%",
+                            height : "550px",
+                            path: "blog-editormd/lib/",
+                            onload:function () {
+                                this.watch();
+                                this.setMarkdown(result.data.content)
+                            }
+                        });
+                    }else {
+                        alert(result.errMsg)
+                    }
+                }
+            })
         }
         getBlogInfo();
     </script>

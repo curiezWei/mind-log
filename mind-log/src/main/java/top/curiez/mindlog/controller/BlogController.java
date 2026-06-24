@@ -58,15 +58,15 @@ public class BlogController {
     }
 
     @RequestMapping("/update")
-    public Boolean update(BlogInfo blogInfo) {
+    public Result update(BlogInfo blogInfo) {
         log.info("更新博客,blogId;{}",blogInfo.getId());
         if(blogInfo.getId()==null
                 ||!StringUtils.hasLength(blogInfo.getContent())
                 ||!StringUtils.hasLength(blogInfo.getTitle())) {
-            return false;
+            return Result.fail("标题和内容不能为空",false);
         }
         blogService.update(blogInfo);
-        return true;
+        return Result.success(true);
     }
 
     @RequestMapping("/delete")

@@ -66,17 +66,19 @@
         //getUserInfo(userUrl);
 
         function deleteBlog(blogId) {
-            $.ajax({
-                type: "post",
-                url: "blog/delete"+location.search,
-                success:function (result) {
-                    if(result.code=="SUCCESS"&&result.data) {
-                        location.href = "blog_list.html"
-                    }else {
-                        alert(result.errMsg);
+            if(confirm("确定删除吗？")) {
+                $.ajax({
+                    type: "post",
+                    url: "blog/delete"+location.search,
+                    success:function (result) {
+                        if(result.code=="SUCCESS"&&result.data) {
+                            location.href = "blog_list.html"
+                        }else {
+                            alert(result.errMsg);
+                        }
                     }
-                }
-            })
+                })
+            }
         }
 
         $.ajax({
