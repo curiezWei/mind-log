@@ -20,7 +20,8 @@ public class WebConfig implements WebMvcConfigurer {
             "/css/**",
             "/js/**",
             "/pic/**",
-            "/user/login"
+            "/user/login",
+            "/user/guest"
     );
 
     @Override

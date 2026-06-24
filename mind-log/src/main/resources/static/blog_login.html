@@ -53,6 +53,7 @@
                 success:function (result){
                     if(result.code=="SUCCESS"&&result.data!=null) {
                         localStorage.setItem("user_token",result.data);
+                        localStorage.removeItem("isGuest");
                         location.href = "blog_list.html"
                     }else {
                         alert(result.errMsg)
@@ -62,7 +63,19 @@
         }
 
         function free() {
-
+            $.ajax({
+                type:"post",
+                url:"/user/guest",
+                success:function (result){
+                    if(result.code=="SUCCESS"&&result.data!=null) {
+                        localStorage.setItem("user_token",result.data);
+                        localStorage.setItem("isGuest","true");
+                        location.href = "blog_list.html"
+                    }else {
+                        alert(result.errMsg)
+                    }
+                }
+            })
         }
     </script>
 </body>

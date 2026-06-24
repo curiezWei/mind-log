@@ -48,6 +48,9 @@ public class BlogController {
         }
         String token = request.getHeader(Constants.REQUEST_HEADER_TOKEN);
         Integer userId = JwtUtils.getIdByToken(token);
+        if(userId==null||userId<=0) {
+            return Result.fail("游客模式下无法发布内容！");
+        }
         blogInfo.setUserId(userId);
 
         Boolean valid = blogService.insertBlog(blogInfo);
@@ -58,22 +61,32 @@ public class BlogController {
     }
 
     @RequestMapping("/update")
-    public Result update(BlogInfo blogInfo) {
+    public Result update(BlogInfo blogInfo, HttpServletRequest request) {
         log.info("更新博客,blogId;{}",blogInfo.getId());
         if(blogInfo.getId()==null
                 ||!StringUtils.hasLength(blogInfo.getContent())
                 ||!StringUtils.hasLength(blogInfo.getTitle())) {
             return Result.fail("标题和内容不能为空",false);
         }
+        String token = request.getHeader(Constants.REQUEST_HEADER_TOKEN);
+        Integer userId = JwtUtils.getIdByToken(token);
+        if(userId==null||userId<=0) {
+            return Result.fail("游客模式下无法进行该操作！");
+        }
         blogService.update(blogInfo);
         return Result.success(true);
     }
 
     @RequestMapping("/delete")
-    public Result delete(Integer blogId) {
+    public Result delete(Integer blogId, HttpServletRequest request) {
         log.info("删除博客,blogId;{}",blogId);
         if(blogId<=0) {
             return Result.fail("不存在该博客，删除失败！");
+        }
+        String token = request.getHeader(Constants.REQUEST_HEADER_TOKEN);
+        Integer userId = JwtUtils.getIdByToken(token);
+        if(userId==null||userId<=0) {
+            return Result.fail("游客模式下无法进行该操作！");
         }
         BlogInfo blogInfo = new BlogInfo();
         blogInfo.setId(blogId);

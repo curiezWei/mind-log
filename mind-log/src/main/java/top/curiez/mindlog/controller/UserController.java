@@ -38,12 +38,22 @@ public class UserController {
         return Result.success(jwtToken);
     }
 
+    @RequestMapping("/guest")
+    public Result guest() {
+        Map<String,Object> claim = new HashMap<>();
+        claim.put("id", 0);
+        String jwtToken = JwtUtils.getJwtToken(claim);
+        return Result.success(jwtToken);
+    }
+
     @RequestMapping("/getUserInfo")
     public UserInfo getLoginUserInfo(HttpServletRequest request) {
         String token = request.getHeader(Constants.REQUEST_HEADER_TOKEN);
         Integer userId = JwtUtils.getIdByToken(token);
-        if(userId==null) {
-            return null;
+        if(userId==null||userId<=0) {
+            UserInfo guestInfo = new UserInfo();
+            guestInfo.setUserName("游客");
+            return guestInfo;
         }
         UserInfo userInfo = userService.selectById(userId);
         return userInfo;
