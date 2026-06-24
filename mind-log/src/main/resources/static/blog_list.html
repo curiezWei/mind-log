@@ -15,33 +15,23 @@
         <img src="pic/logo2.jpg" alt="">
         <span class="blog-title">mindlog<br>博客系统</span>
         <div class="space"></div>
+        <div id="nav-user">
+            <span class="nav-username">curiez</span>
+        </div>
         <a class="nav-span" href="blog_list.html">主页</a>
         <a class="nav-span" id="nav-edit" href="blog_edit.html">写博客</a>
         <a class="nav-span" id="nav-logout" href="#" onclick="logout()">注销</a>
     </div>
 
     <div class="container">
-        <div class="left">
-            <div class="card">
-                <img src="pic/brian.jpg" alt="">
-                <h3>curiez</h3>
-                <a href="#" id="github-link">GitHub 地址</a>
-                <div class="row">
-                    <span>文章</span>
-                    <span>分类</span>
-                </div>
-                <div class="row">
-                    <span>2</span>
-                    <span>1</span>
-                </div>
-            </div>
-        </div>
+        <div class="left"></div>
         <div class="right">
 
         </div>
     </div>
     <script src="js/jquery.min.js"></script>
     <script src="js/common.js"></script>
+    <script src="blog-editormd/lib/marked.min.js"></script>
     <script>
 
         var isGuest = localStorage.getItem("isGuest") === "true";
@@ -66,16 +56,22 @@
                 if(result.code=="SUCCESS") {
                     var blogs = result.data;
                     var finalHtml = "";
-                    for(var blog of blogs) {
+                    for(var i = 0; i < blogs.length; i++) {
+                        var blog = blogs[i];
                         finalHtml+='<div class="blog">';
+                        finalHtml+='    <span class="author">'+blog.authorName+'</span>';
                         finalHtml+='    <div class="title">'+blog.title+'</div>';
                         finalHtml+='    <div class="date">'+blog.createTime+'</div>';
-                        finalHtml+='    <div class="desc">'+blog.content+'</div>';
+                        finalHtml+='    <div class="desc" id="desc-'+i+'"></div>';
                         finalHtml+='    <a class="detail" href="blog_detail.html?blogId='+blog.id+'">查看全文&gt;&gt;</a>';
                         finalHtml+='</div>';
                     }
 
                     $(".container .right").html(finalHtml);
+
+                    for(var i = 0; i < blogs.length; i++) {
+                        document.getElementById('desc-'+i).innerHTML = marked.parse(blogs[i].content);
+                    }
                 }
             }
         })
@@ -86,12 +82,7 @@
             success:function (result) {
                 if(result.code=="SUCCESS"&&result.data != null) {
                     var userInfo = result.data;
-                    $(".left .card h3").text(userInfo.userName);
-                    if(userInfo.githubUrl) {
-                        $(".left .card a").attr("href",userInfo.githubUrl);
-                    } else {
-                        $(".left .card a").hide();
-                    }
+                    $("#nav-user .nav-username").text(userInfo.userName);
                 }
             }
         })

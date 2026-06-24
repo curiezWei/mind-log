@@ -10,7 +10,7 @@ import java.util.List;
 @Mapper
 public interface BlogInfoMapper {
 
-    @Select("select * from blog_info where delete_flag = 0")
+    @Select("select b.*, u.user_name as author_name from blog_info b left join user_info u on b.user_id = u.id where b.delete_flag = 0")
     List<BlogInfo> selectAll();
 
     @Select("select * from blog_info where id = #{id}")
